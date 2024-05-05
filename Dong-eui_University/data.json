@@ -106,6 +106,251 @@
     ]
   },
   {
+    "college_name": "College of Natural Sciences ",
+    "faculty": [
+      {
+        "course_name": "Department of Mathematics ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">     Raising Adventurers to Lead the Future of Natural Sciences  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>The College of Natural Sciences seeks to help students delve into the profound theoretical background of natural sciences and learn their accurate applications in a way that contributes to the welfare of the society and the nation.</li>\n        <li> Our research and learning programs have cradled a great number of natural scientists and technicians who are playing remarkable roles in the society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Chemistry ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">     Raising Adventurers to Lead the Future of Natural Sciences  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>The College of Natural Sciences seeks to help students delve into the profound theoretical background of natural sciences and learn their accurate applications in a way that contributes to the welfare of the society and the nation.</li>\n        <li> Our research and learning programs have cradled a great number of natural scientists and technicians who are playing remarkable roles in the society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Life Science and Biotechnology ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">     Raising Adventurers to Lead the Future of Natural Sciences  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>The College of Natural Sciences seeks to help students delve into the profound theoretical background of natural sciences and learn their accurate applications in a way that contributes to the welfare of the society and the nation.</li>\n        <li> Our research and learning programs have cradled a great number of natural scientists and technicians who are playing remarkable roles in the society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Physics ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">     Raising Adventurers to Lead the Future of Natural Sciences  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>The College of Natural Sciences seeks to help students delve into the profound theoretical background of natural sciences and learn their accurate applications in a way that contributes to the welfare of the society and the nation.</li>\n        <li> Our research and learning programs have cradled a great number of natural scientists and technicians who are playing remarkable roles in the society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Molecular Biology",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">     Raising Adventurers to Lead the Future of Natural Sciences  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>The College of Natural Sciences seeks to help students delve into the profound theoretical background of natural sciences and learn their accurate applications in a way that contributes to the welfare of the society and the nation.</li>\n        <li> Our research and learning programs have cradled a great number of natural scientists and technicians who are playing remarkable roles in the society.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Nursing, Healthcare Sciences & Human Ecology",
+    "faculty": [
+      {
+        "course_name": "Department of Nursing ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Dental Hygiene",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Healthcare Management",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Childcare and Family Counseling",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Clinical Laboratory Science ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Radiological Science",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Physical Therapy",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Food and Nutrition",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">Fostering Future Global Experts in Nursing, Health Sciences & Human Ecology</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>College of Nursing, Healthcare Sciences & Human Ecology aims to foster future global leaders who will contribute to enhancing the health of human and the quality of life by providing professional knowledge on nursing, health sciences and human ecolog.</li>\n        <li> The College of Humanities & Social Sciences offers various programs which explore the nature of humans as social beings and the educational goal of the college is to educate liberal professionals and leaders with civic virtues of social vision and creative integrity who will contribute to the development of our society.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Korean Medicine ",
+    "faculty": [
+      {
+        "course_name": "Department of Pre-Korean Medicine ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px;  font-weight: 400; color: #606a84;\">  The College of Korean Medicine, established to educate skilled and devoted oriental medicine practitioners, has grown to become a reputable institute for research and education in the field of Korean medicine. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The Hall of Oriental Medicine in Busan's Yangjeong area offers a supportive setting for in-depth study and clinical training.</li>\n        <li>It has established itself as a leading institution in Korean medicine research and education.</li>\n        <li>The college is associated with two oriental medicine hospitals, one in Yangjeong (Busan) and another in Ulsan.</li>\n        <li>The College of Korean Medicine is known for educating skilled and dedicated practitioners of oriental medicine.</li>\n        <li>The college and its facilities emphasize the professional development of students as future leaders in Korean medicine</li>\n      </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Pre-Korean Medicine",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px;  font-weight: 400; color: #606a84;\">  The College of Korean Medicine, established to educate skilled and devoted oriental medicine practitioners, has grown to become a reputable institute for research and education in the field of Korean medicine. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The Hall of Oriental Medicine in Busan's Yangjeong area offers a supportive setting for in-depth study and clinical training.</li>\n        <li>It has established itself as a leading institution in Korean medicine research and education.</li>\n        <li>The college is associated with two oriental medicine hospitals, one in Yangjeong (Busan) and another in Ulsan.</li>\n        <li>The College of Korean Medicine is known for educating skilled and dedicated practitioners of oriental medicine.</li>\n        <li>The college and its facilities emphasize the professional development of students as future leaders in Korean medicine</li>\n      </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "IT Convergence College of Components and Materials Engineering ",
+    "faculty": [
+      {
+        "course_name": "Division of Advanced Materials Engineering ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> Innovators in the Components and Materials Industry</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> In our IT Convergence College of Components and Materials Engineering, students learn how to apply information technology and design concepts for the components and materials industry.</li>\n      \n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of International Trade & Distribution ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> Innovators in the Components and Materials Industry</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> In our IT Convergence College of Components and Materials Engineering, students learn how to apply information technology and design concepts for the components and materials industry.</li>\n      \n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Mechanical, Automobile, Robot Component Engineering",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> Innovators in the Components and Materials Industry</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> In our IT Convergence College of Components and Materials Engineering, students learn how to apply information technology and design concepts for the components and materials industry.</li>\n      \n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Industrial Convergence Systems Engineering ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> Innovators in the Components and Materials Industry</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> In our IT Convergence College of Components and Materials Engineering, students learn how to apply information technology and design concepts for the components and materials industry.</li>\n      \n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Engineering ",
+    "faculty": [
+      {
+        "course_name": "Division of Urban, Architecture and Civil Engineering ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Applied Bioengineering ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Chemical & Environmental Engineering",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Naval Architecture & Ocean Engineering ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Business & Economics ",
+    "faculty": [
+      {
+        "course_name": "Department of real estate finance · asset management ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Economics, Finance, Insurance and Real Estate ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Business Administration ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Information Management ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of International Trade & Distribution",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Hotel, Tourism and Foodservice Management",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Business & Economics ",
+    "faculty": [
+      {
+        "course_name": "Department of real estate finance · asset management ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Economics, Finance, Insurance and Real Estate ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Business Administration ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Information Management ",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of International Trade & Distribution",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Division of Hotel, Tourism and Foodservice Management",
+        "cover_pic": "https://eng.deu.ac.kr/template/t003/images/top-visual01.jpg",
+        "img": "https://www.edarabia.com/wp-content/uploads/2018/03/dong-eui-university-busan-south-korea.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Business and Economics aims to cultivate creative and practical leaders of the local and national economy who can take the initiative with future-oriented vision in this information-based, globalized and decentralized society. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> Provides a focused academic atmosphere for students.</li>\n        <li> Supports preparation for national examinations.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
     "college_name": "College of Business & Economics ",
     "faculty": [
       {

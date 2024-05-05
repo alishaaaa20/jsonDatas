@@ -1,5 +1,16 @@
 [
   {
+    "college_name": "School of Global Studies ",
+    "faculty": [
+      {
+        "course_name": "School of Global Studies ",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
     "college_name": "College of Liberal Arts",
     "faculty": [
       {
@@ -194,30 +205,98 @@
     "college_name": "College of Engineering",
     "faculty": [
       {
-        "course_name": "School of Law, Public Administration & Politics",
+        "course_name": "School of Civil, Urban, and Environmental Engineering ",
         "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
         "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
-
-        "courses": ["Major in Law", "Major in Public Administration"]
-      },
-      {
-        "course_name": "School of Communication",
-        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
-        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
 
         "courses": [
-          "Major in Mass Communication",
-          "Major in Advertising & Public Relation"
+          "Major in Environmental",
+          "Major in Civil Engineering",
+          "Major in Urban Engineering"
+        ]
+      },
+      {
+        "course_name": "School of Food Biotechnology & Nutrition",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Food Science & Biotechnology",
+          "Major in Food Nutrition"
+        ]
+      },
+      {
+        "course_name": "School of Architecture & Design",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Architecture",
+          "Major in Interior & Architectural Design"
+        ]
+      },
+      {
+        "course_name": "School of Mechanical and Mechatronics Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Mechanical & Automotive Engineering",
+          "Major in Mechatronics Engineering"
         ]
       },
 
       {
-        "course_name": "Department of Social Welfare",
+        "course_name": "Dept. of Industrial and Management Engineering",
         "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
         "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Advanced Materials Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Electrical Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Electronic Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Computer Science & Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Computer science",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Information & Communication Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Pharmaceutical Engineering",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Engineering aims to incubate talents with specialized engineering theory and application capability to contribute to the national industry’s development. Since 2018, the Major in Mechanical & Automotive Engineering, Department of computer science, and Department of pharmaceutical Engineering have been established with a focus on the core area of the fourth industrial revolution era, and a training base has been established to emit progressive and creative leaders with international expertise. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
       }
     ]
   },
@@ -225,34 +304,104 @@
     "college_name": "College of Pharmacy",
     "faculty": [
       {
-        "course_name": "School of Law, Public Administration & Politics",
+        "course_name": "Department of Pharmacy",
         "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
         "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
-
-        "courses": ["Major in Law", "Major in Public Administration"]
-      },
-      {
-        "course_name": "School of Communication",
-        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
-        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
-
-        "courses": [
-          "Major in Mass Communication",
-          "Major in Advertising & Public Relation"
-        ]
-      },
-
-      {
-        "course_name": "Department of Social Welfare",
-        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
-        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
-        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Pharmacy fosters true pharmacists and professional pharmacologists by having them explore the basic truth pharmacology and learn the appropriate character and morality. In addition, the college encourages pharmacists and pharmacologists to share their hopes for a better global human welfare with others.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
       }
     ]
   },
   {
-    "college_name": "College of Arts"
+    "college_name": "College of Arts",
+    "faculty": [
+      {
+        "course_name": "School of Design",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Visual Communication Design",
+          "Major in Industrial Design"
+        ]
+      },
+      {
+        "course_name": "School of Theatre & Film Art",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Theatre", "Major in Film", "Major in Musical"]
+      },
+      {
+        "course_name": "School of Screen Arts",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Moving Image", "Major in Animation"]
+      },
+      {
+        "course_name": "School of Digital Media",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": "Major in Digital Media"
+      },
+
+      {
+        "course_name": "Dept. of Sport and Health Science",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Fine Arts",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Craft Design",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Photography",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Dept. of Fashion Design & Merchandising",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> The College of Atrs has combined traditional creativity and imagination beyond traditional university structures. Students will be able to learn professional theories and practical training to discover their individual identities and grow into creative talents.. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Creative Human Resource",
+    "faculty": [
+      {
+        "course_name": "School of Liberal Arts Education",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> College of Creative Human Resource develops characteristics, self-improvement abilities and communication skills which are key features required for glocal multi-cultural age through basic liberal arts education.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college offers an opportunity for students to acquire creative intelligence that information and knowledge society requires by selective liberal arts education of both knowledge and life realms. </li>\n        <li> And also another bachelor’s degree can be attained through Liberal Arts Degree Track that are areas of students’ concerns and request for entering into society.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Theology",
+    "faculty": [
+      {
+        "course_name": "School of Liberal Arts Education",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We foster students to be faithful based on Christian values and train them to become professionals through academic research and education, thus contributing to the development of the church and humanity. Here, students can study theology without being confined to any denomination for it is based on an ecumenical theological spirit.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
   }
 ]

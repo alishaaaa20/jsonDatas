@@ -1,0 +1,258 @@
+[
+  {
+    "college_name": "College of Liberal Arts",
+    "faculty": [
+      {
+        "course_name": "School of Human Civilization",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Korean Language & Literature",
+          "Major in Japanese Language",
+          "Major in History"
+        ]
+      },
+      {
+        "course_name": "School of Glocal Cultural Studies",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Cultural Planning",
+          "Major in Cultural Contents",
+          "Major in Cultural Service"
+        ]
+      },
+      {
+        "course_name": "School of Human Civilization",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Korean Language & Literature",
+          "Major in Japanese Language",
+          "Major in History"
+        ]
+      },
+      {
+        "course_name": "Department of English Language & Literature",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of China Studies",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Library & Information Science",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Early Childhood Education",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Ethics Education",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Psychology",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> We train global leaders to lead a future society with a sense of global citizenship mission in the 21st century.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li> The School of Global Studies has established several courses that focuses on communication, empathy, and building global capacity, and allows students to specialize in different majors like global management, global Hospitality management and global Korean studies. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Law and Political Science",
+    "faculty": [
+      {
+        "course_name": "School of Law, Public Administration & Politics",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Law", "Major in Public Administration"]
+      },
+      {
+        "course_name": "School of Communication",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Mass Communication",
+          "Major in Advertising & Public Relation"
+        ]
+      },
+
+      {
+        "course_name": "Department of Social Welfare",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Commerce and Economics",
+    "faculty": [
+      {
+        "course_name": "School of Economics, Finance & Logistics",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> With the goal of incubating talents satisfying the needs of businesses with practical capabilities, the College of Commerce and Economics provides foreign language education and overseas field practice to strengthen their global competitiveness. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Economics & Finance", "Major in Logistics"]
+      },
+      {
+        "course_name": "School of Hospitality & Tourism Management",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> With the goal of incubating talents satisfying the needs of businesses with practical capabilities, the College of Commerce and Economics provides foreign language education and overseas field practice to strengthen their global competitiveness. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Hotel & Tourism Management",
+          "Major in Food service Management"
+        ]
+      },
+
+      {
+        "course_name": "Department of Business Administration",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> With the goal of incubating talents satisfying the needs of businesses with practical capabilities, the College of Commerce and Economics provides foreign language education and overseas field practice to strengthen their global competitiveness. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of International Trade & Commerce",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> With the goal of incubating talents satisfying the needs of businesses with practical capabilities, the College of Commerce and Economics provides foreign language education and overseas field practice to strengthen their global competitiveness. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Accounting",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\"> With the goal of incubating talents satisfying the needs of businesses with practical capabilities, the College of Commerce and Economics provides foreign language education and overseas field practice to strengthen their global competitiveness. </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Science",
+    "faculty": [
+      {
+        "course_name": "School of Mathematics & Applied statistics",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">  The College of Science focuses on developing balanced growth between basic science and applied science.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Mathematics", "Major in Applied Statistics"]
+      },
+      {
+        "course_name": "School of Chemistry & Life Sciences",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">  The College of Science focuses on developing balanced growth between basic science and applied science.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Chemistry", "Major in Life Sciences"]
+      },
+
+      {
+        "course_name": "Department of Energy Science",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">  The College of Science focuses on developing balanced growth between basic science and applied science.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Physical Therapy",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">  The College of Science focuses on developing balanced growth between basic science and applied science.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      },
+      {
+        "course_name": "Department of Nursing Science",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">  The College of Science focuses on developing balanced growth between basic science and applied science.  </p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Engineering",
+    "faculty": [
+      {
+        "course_name": "School of Law, Public Administration & Politics",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Law", "Major in Public Administration"]
+      },
+      {
+        "course_name": "School of Communication",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Mass Communication",
+          "Major in Advertising & Public Relation"
+        ]
+      },
+
+      {
+        "course_name": "Department of Social Welfare",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Pharmacy",
+    "faculty": [
+      {
+        "course_name": "School of Law, Public Administration & Politics",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": ["Major in Law", "Major in Public Administration"]
+      },
+      {
+        "course_name": "School of Communication",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>",
+
+        "courses": [
+          "Major in Mass Communication",
+          "Major in Advertising & Public Relation"
+        ]
+      },
+
+      {
+        "course_name": "Department of Social Welfare",
+        "cover_pic": "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/125/408/original/Untitled.png?1714730722",
+        "img": "https://www.zila.com.vn/wp-content/uploads/2018/11/logo-kyungsung-university.jpg",
+        "description": "<div>\n      <p style=\"margin-top:10px; font-weight: 400; color: #606a84;\">The College of Law and Political Science aims to educate talented students capable of contributing to the country and mankind through a wide range of studies in social studies.</p>\n      \n      <h3 style=\"color: #606a84; margin-top:10px;\">Highlights:</h3>\n      <ul style=\"list-style-type: disc; padding-left: 20px; color:#606a84; margin-top:20px;\">\n        <li>  The college provides various in-field practice education, special lectures by invited instructor and multimedia education at high-tech equipment lecture halls to help incubate talents necessary to lead the 21st century. </li>\n        <li> These majors are expected to help and to connect international community and Kyungsung University as a hub of communication.</li>\n                </ul>\n    </div>"
+      }
+    ]
+  },
+  {
+    "college_name": "College of Arts"
+  }
+]
